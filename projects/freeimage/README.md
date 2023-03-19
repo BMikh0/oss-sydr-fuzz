@@ -32,7 +32,7 @@ Run hybrid fuzzing:
 
 ## Collect and Report coverage
 
-    # sydr-fuzz -c loaf_from_memory.toml cov-report
+    # sydr-fuzz -c load_from_memory.toml cov-report
 
 ## Check Security Predicates
 
